@@ -1,0 +1,16 @@
+h1 {
+  font-family: 'Anton', sans-serif;
+  font-size: 50px;
+  color:#ffffff;
+  text-align: center;
+}
+header {
+  background-color: #000000;
+  background-image: url("ps3 controller.jpg");
+  padding:2.5vw 2em 15vw 2em;
+  background-position: top center;
+}
+p{
+font-family: 'Oswald', sans-serif;
+font-size: 25px;
+}
